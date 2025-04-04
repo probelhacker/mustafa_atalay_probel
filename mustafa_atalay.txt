@@ -1,0 +1,108 @@
+browser: Google Chrome
+profile: Default
+url: android://yTbbVli2kp2NRFxk_MQWPqrNxomp-OK_hUSXqYCKsZ8yq6rhqj6DXtj5l1tBvyMWM__Q1Njmy2YSMnW5C7PFJg==@com.trello/
+login: mustafaatalay3220@gmail.com
+password: mustafa35720
+
+browser: Google Chrome
+profile: Default
+url: https://v1.ayensoftware.com/login
+login: Mustafaatalay
+password: m123456
+
+browser: Google Chrome
+profile: Default
+url: http://v1.ayensoftware.com/login
+login: Mustafaatalay
+password: m123456
+
+browser: Google Chrome
+profile: Default
+url: https://mydhl.express.dhl/tr/tr/auth/login.html
+login: info@setatek.net
+password: Stk2020.
+
+browser: Google Chrome
+profile: Default
+url: https://sellercentral.amazon.co.uk/ap/signin
+login: kazaangmbh@gmail.com
+password: Dkd2020.
+
+browser: Google Chrome
+profile: Default
+url: https://www.fedex.com/tr-tr/home.html
+login: DEKADRON
+password: Dkd2020.
+
+browser: Google Chrome
+profile: Default
+url: https://passport.aliexpress.com/mini_login.htm
+login: info@dekadron.com
+password: Dkd2020.
+
+browser: Google Chrome
+profile: Default
+url: https://login.aliexpress.com/
+login: info@dekadron.com
+password: Dkd2020.
+
+browser: Google Chrome
+profile: Default
+url: http://panel.dekadron.com/
+login: admin
+password: ha2123154315
+
+browser: Google Chrome
+profile: Default
+url: http://panel.dekadron.com.tr/
+login: admin
+password: ha2123154315
+
+browser: Google Chrome
+profile: Default
+url: https://captive.ibbwifi.istanbul/
+login: 5057194032
+password: 1111
+
+browser: Google Chrome
+profile: Default
+url: https://aiesec.org.tr/arkaplan
+login: mustafa3220
+password: eHuOE0LkL9VrYHvvT1a&o(kp
+
+browser: Google Chrome
+profile: Default
+url: https://www.jotform.com/tr/
+login: mustafaatalay3220@gmail.com
+password: exper1977M@
+
+browser: Google Chrome
+profile: Default
+url: http://magazayonetimi.amerikadaniste.com/Login.aspx
+login: mustafa.atalay
+password: Diw5ssRL5l2R
+
+browser: Google Chrome
+profile: Default
+url: https://wing.guzelhosting.com:8443/login_up.php
+login: mustafaatalay.net
+password: 93EH$vbfYui0smbd
+
+browser: Google Chrome
+profile: Default
+url: https://pys.probel.com.tr/Giris
+login: MUSTAFA.ATALAY
+password: mustafa35720
+
+browser: Google Chrome
+profile: Default
+url: https://tales.probel.com.tr/PiData.UI.Main/Genel/Yetkilendirme/Giris
+login: MUSTAFA.ATALAY
+password: mustafa35720
+
+browser: Microsoft Edge
+profile: Default
+url: https://accounts.google.com/signin/v2/challenge/pwd
+login: mustafaatalay3220@gmail.com
+password: mustafa35720
+
